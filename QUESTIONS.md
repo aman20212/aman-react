@@ -30,6 +30,8 @@
 
 ### e. transition property
 
+### f. What is the significance of Box-Sizing property ?
+
 ## React
 
 ### a. Virtual DOM
